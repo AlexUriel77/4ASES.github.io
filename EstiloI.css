@@ -370,3 +370,80 @@ body{
     height: 410px;
   }
 }
+
+@media screen and (max-width: 400px){
+	header{
+    width: 100%;
+    margin-left:2px
+  }
+  header nav a{
+    margin-left: 24px;
+    font-size: 11px;
+    width: 100%;
+  }
+  header img{
+    width: 55px;
+    }
+  #portada{
+    margin-left: 25px;
+    width: 100%;
+  }
+  .nosotros{
+    width: 100%;
+    margin-left: 25px;
+  }
+  .nosotros .boton{
+    width: 75%;
+    margin-left: 13%;
+  }
+  .carousel-container {
+    width: 100%;
+    margin-left: 18px;
+  }
+
+  .cambio{
+    width: 115%;
+    height: 1230px;
+  }
+  .Servicios{
+    width: 87%;
+    height: 80%;
+  }
+  .Servicios p{
+    width: 80%;
+  }
+  .Servicios ul{
+    width: 100%;
+  }
+  .Servicios img{
+    margin-top: 212%;
+    height: 220px;
+    width: 320px;
+    margin-left: 18px;
+  }
+  .contactos{
+    flex-wrap: nowrap;
+    align-items: baseline;
+    width: 60%;
+  }
+  .contactos2{
+    margin-top: 90px;
+  }
+  .contactos3{
+    margin-top: 140px;
+    width: 15%;
+    flex-wrap: nowrap;
+    align-items: baseline;
+  }
+  .Atencion{
+    width: 150px;
+    margin-left: 11px;
+  }
+  .icons{
+    margin-top: 60px;
+  }
+  footer{
+    height: 430px;
+    width: 115%;
+  }
+}
