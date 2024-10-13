@@ -201,15 +201,15 @@ p{
     margin-top: 39%;
  }
 }
+
 @media screen and (max-width: 450px){
 	header{
     width: 100%;
 	margin-left: -7px;
 }
   header nav a{
-    margin-left: 11px;
-    font-size: 12px;
-	margin-right: 20px;
+    margin-left: 5px;
+    font-size: 9px;
     width: 100%;
   }
   header img{
