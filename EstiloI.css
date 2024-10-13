@@ -255,6 +255,8 @@ body{
   }
 #fc{
   margin-left: 18px;
+  text-decoration: none;
+    color: white;
 }
 #whatsapp{
   text-decoration: none;
