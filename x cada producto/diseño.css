@@ -166,17 +166,18 @@ p{
  }
 }
 
-@media screen and (max-width: 480px){
+
+@media screen and (max-width: 600px){
 	header{
-    margin-right: 15px;
-  }
-  header img{
-	width: 65px;
-  }
-  header nav a{
-    margin-left: 18px;
-    font-size: 16px;
-  }
+		margin-right: 130px;
+	  }
+	  header nav a{
+		margin-left: 20px;
+		font-size: 16px;
+	  }
+	  header img{
+		width: 62px;
+		}
   .Descripcion img{
     margin-left: 15px;
   }
