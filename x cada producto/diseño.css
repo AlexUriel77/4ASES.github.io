@@ -201,3 +201,17 @@ p{
     margin-top: 39%;
  }
 }
+@media screen and (max-width: 400px){
+	header{
+    width: 100%;
+	margin-left: -7px;
+}
+  header nav a{
+    margin-left: 14px;
+    font-size: 11px;
+    width: 100%;
+  }
+  header img{
+    width: 52px;
+    }
+}
