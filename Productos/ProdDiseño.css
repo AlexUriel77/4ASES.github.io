@@ -235,14 +235,15 @@ h1{
 }
 
 
-@media screen and (max-width: 400px){
+@media screen and (max-width: 450px){
 	header{
     width: 100%;
 	margin-left: -7px;
 }
   header nav a{
-    margin-left: 14px;
-    font-size: 11px;
+    margin-left: 11px;
+    font-size: 12px;
+	margin-right: 20px;
     width: 100%;
   }
   header img{
