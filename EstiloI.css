@@ -307,3 +307,66 @@ body{
     height: 770px;
 }
 }
+
+
+@media screen and (max-width: 480px){
+	header{
+    margin-right: 1px;
+  }
+  header nav a{
+    margin-left: 28px;
+    font-size: 15px;
+  }
+  header img{
+    width: 62px;
+    }
+  #portada{
+    margin-left: 12px;
+  }
+  .nosotros .boton{
+    width: 60%;
+    margin-left: 18%;
+  }
+  
+  .cambio{
+    
+    height: 1230px;
+  }
+  .Servicios{
+    width: 87%;
+    height: 80%;
+  }
+  .Servicios p{
+    width: 80%;
+  }
+  .Servicios ul{
+    width: 100%;
+  }
+  .Servicios img{
+    margin-top: 150%;
+    height: 220px;
+    width: 350px;
+    margin-left: 19px;
+  }
+  .contactos{
+    flex-wrap: nowrap;
+    align-items: baseline;
+
+  }
+  .contactos2{
+    margin-top: 80px;
+  }
+  .contactos3{
+    margin-top: 130px;
+  }
+  .Atencion{
+    width: 180%;
+    margin-left: 50px;
+  }
+  .icons{
+    margin-top: 60px;
+  }
+  footer{
+    height: 410px;
+  }
+}
