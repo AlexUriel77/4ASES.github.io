@@ -395,6 +395,8 @@ body{
   .nosotros .boton{
     width: 75%;
     margin-left: 13%;
+    text-align:center;
+    justify-content:center;
   }
   .carousel-container {
     width: 100%;
@@ -416,7 +418,7 @@ body{
     width: 100%;
   }
   .Servicios img{
-    margin-top: 212%;
+    margin-top: 200%;
     height: 220px;
     width: 320px;
     margin-left: 18px;
