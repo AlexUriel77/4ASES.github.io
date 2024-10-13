@@ -201,17 +201,32 @@ p{
     margin-top: 39%;
  }
 }
-@media screen and (max-width: 400px){
+@media screen and (max-width: 450px){
 	header{
     width: 100%;
 	margin-left: -7px;
 }
   header nav a{
-    margin-left: 14px;
-    font-size: 11px;
+    margin-left: 11px;
+    font-size: 12px;
+	margin-right: 20px;
     width: 100%;
   }
   header img{
     width: 52px;
     }
+    #compra{
+        margin-top: 19%;
+        margin-left: 49%;
+        font-size: 14px;
+     }
+     #compra1{
+        margin-top: 29%;
+        width: 36%;
+        font-size: 16px;
+     }
+     #detalle{
+        margin-top: 49%;
+        width: 25%;
+     }
 }
