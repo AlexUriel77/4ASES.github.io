@@ -371,7 +371,7 @@ body{
   }
 }
 
-@media screen and (max-width: 400px){
+@media screen and (max-width: 450px){
 	header{
     width: 100%;
     margin-left:2px
