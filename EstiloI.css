@@ -400,11 +400,14 @@ body{
     text-align:center;
     justify-content:center;
   }
+  .boton h3{
+    margin-top:10px;
+  }
   .carousel-container {
     width: 100%;
     margin-left: 18px;
   }
-
+  
   .cambio{
     width: 115%;
     height: 1230px;
