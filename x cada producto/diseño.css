@@ -165,3 +165,39 @@ p{
     margin-top: 20%;
  }
 }
+
+@media screen and (max-width: 480px){
+	header{
+    margin-right: 15px;
+  }
+  header img{
+	width: 65px;
+  }
+  header nav a{
+    margin-left: 18px;
+    font-size: 16px;
+  }
+  .Descripcion img{
+    margin-left: 15px;
+  }
+  .Descripcion h1{
+    font-size: 16px;
+  }
+  #compra{
+    margin-top: 16%;
+    margin-left: 49%;
+    font-size: 14px;
+ }
+ #compra1{
+    margin-top: 25%;
+    width: 36%;
+    font-size: 16px;
+ }
+ #detalle{
+    margin-top: 45%;
+    width: 25%;
+ }
+ .des{
+    margin-top: 39%;
+ }
+}
