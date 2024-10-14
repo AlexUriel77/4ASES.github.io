@@ -400,7 +400,7 @@ header img{
   justify-content:center;
 }
 .boton h3{
-  margin-top:20px;
+  margin-top:30px;
 }
 .carousel-container {
   width: 90%;
@@ -425,7 +425,7 @@ header img{
   margin-top: 170%;
   height: 220px;
   width: 320px;
-  margin-left: 29px;
+  margin-left: 26px;
 }
 .contactos{
   flex-wrap: nowrap;
