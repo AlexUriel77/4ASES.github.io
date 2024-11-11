@@ -62,6 +62,16 @@ margin-left: 9%;
   width: 80%;
   padding-bottom: 50px;
 }
+.nosotros h2{
+  font-size: 40px;
+  margin-right: 25px;
+  text-align: center;
+  font-family: "Poppins", sans-serif;
+  color:black;
+  font-weight: 500px;
+  position: relative;
+  
+}
 
 .nosotros .boton{
   background-color: #4778c5;
