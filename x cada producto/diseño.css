@@ -1,5 +1,7 @@
 header img{
     width: 150%;
+    box-shadow: 5px 0px 5px 0px #d9e6f1; 
+    border-radius: 50%;
 }
 header a{
     width: 7%;
